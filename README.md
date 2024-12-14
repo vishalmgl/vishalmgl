@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishalmgl
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in Backend development
 - 🌱 I’m currently learning java,dbms,html,css
 - 📫 How to reach me m.v.vishal51@gmail.com
 
